@@ -1,4 +1,6 @@
 ﻿
+using CinemaDomain.Base;
+
 namespace CinemaDomain
 {
     public class Filme : BaseEntity
